@@ -1,0 +1,16 @@
+body {
+  padding-top: 30px;
+}
+#login {
+  margin-top: 200px;
+}
+form .row {
+  margin-bottom: 15px;
+  line-height: 1.8rem;
+}
+form label {
+  vertical-align: middle;
+}
+.bar {
+  margin-bottom: 15px;
+}
